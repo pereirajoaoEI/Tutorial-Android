@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         super.onStop()
         Log.d("testeLog", "onStop")
     }
-
+//ola
     override fun onStart() {
         super.onStart()
         Log.d("testeLog", "onStart")
