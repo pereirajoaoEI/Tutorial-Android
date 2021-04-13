@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-
+//rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
     override fun onPause() {
         super.onPause()
         Log.d("testeLog", "onPause")
